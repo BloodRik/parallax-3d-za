@@ -1,6 +1,3 @@
-window.addEventListener("load", myFunction);
-
-function myFunction() {
   const parallax_el = document.querySelectorAll(".parallax");
 
   let xValue = 0,
@@ -91,4 +88,3 @@ function myFunction() {
       },
       "3"
     );
-}
